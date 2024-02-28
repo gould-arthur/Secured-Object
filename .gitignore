@@ -1,0 +1,9 @@
+# using as whitelist instead of blacklist
+*
+!.gitignore
+!README.md
+
+!tests/
+!tests/test*.py
+!secured_object/
+!secured_object/*.py
