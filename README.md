@@ -7,7 +7,3 @@ In this case, a user may read/write two variables and read another. A user may a
 More information, regarding defined usage, is documented in the source file.
 
 
-
-## Pipeline
-This codebase contains a .gitlab-ci.yml file which specifies a pipeline for testing other projects and other builds. The projects demonstrates basic ci/cd
-More information is documented in the source file
